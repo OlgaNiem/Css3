@@ -1,0 +1,33 @@
+body{
+
+    background-image: url(wood.jpg);
+    background-repeat: no-repeat;
+    background-image: round;
+    background-position: top center;
+    background-attachment: scroll;
+    background-size: 100% 150%;
+    background-position-y: 0px;
+}
+h1{
+    color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px;
+    align-items: center;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    position: absolute;
+    top:15%;
+    left: 40%;
+}
+
+.lorem{
+    position:relative; 
+   
+align-items: center;
+    top:320px;
+    padding-left: 120px;
+    padding-right: 160px;
+
+}
+
